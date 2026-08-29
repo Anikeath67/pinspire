@@ -1,0 +1,43 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+*.jks
+*.keystore
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+
+# Firebase service account credentials
+service-account*.json
+firebase-adminsdk*.json
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+flutter_error.txt
+
+# Firebase Functions
+functions/node_modules/

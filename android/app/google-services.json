@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "295268278098",
+    "project_id": "pinspire-e74e9",
+    "storage_bucket": "pinspire-e74e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295268278098:android:6dbd40b6326587fc07e48b",
+        "android_client_info": {
+          "package_name": "com.pinspire.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295268278098-48ars3v0pp6rtbg3u8l9vl0slj132nnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinspire.app",
+            "certificate_hash": "b759986d2a1a8f16055d7995bd9b57559d784f53"
+          }
+        },
+        {
+          "client_id": "295268278098-1n68him0b5jejv2b02o6aotfijnv056s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBUwBvZxjhR4TroV18M4HyVLZWLhZs1nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295268278098-1n68him0b5jejv2b02o6aotfijnv056s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "295268278098-pa6h6pjqgha7uojojcfo1ukbi9nv4bbi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pinspire.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
